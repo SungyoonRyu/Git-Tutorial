@@ -3,5 +3,7 @@
 int main(void)
 {
 	int a, b;
-	return a+b;
+	int sum;
+
+	return sum;
 }
